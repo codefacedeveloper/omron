@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -6,3 +7,9 @@
 
 
 fhjfhfjhfjj
+=======
+ueueueueue
+rerererere
+trtrtrtrtrt
+fjffjfjfkfk
+>>>>>>> ddf75af12b34bd05632b57c1dcb6e18ab184744e
